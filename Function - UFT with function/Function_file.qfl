@@ -1,0 +1,5 @@
+﻿Public Function Num_of_seats(x)
+      MyValue = x  
+      Num_of_seats=MyValue
+     
+End Function
