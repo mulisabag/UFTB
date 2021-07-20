@@ -1,0 +1,4 @@
+﻿Function  calc(x,y)
+	z=x+y
+	calc=z
+End Function
